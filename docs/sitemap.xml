@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/</loc>
+    <loc>./</loc>
     <lastmod>2020-11-26T17:58:14-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/posts/my-first-post/</loc>
+    <loc>./posts/my-first-post/</loc>
     <lastmod>2020-11-26T17:58:14-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/posts/</loc>
+    <loc>./posts/</loc>
     <lastmod>2020-11-26T17:58:14-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/categories/</loc>
+    <loc>./categories/</loc>
   </url>
   
   <url>
-    <loc>http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/tags/</loc>
+    <loc>./tags/</loc>
   </url>
   
 </urlset>
