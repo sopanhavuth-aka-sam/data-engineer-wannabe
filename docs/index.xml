@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Engineer Wannabe</title>
+    <link>http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/</link>
+    <description>Recent content on Data Engineer Wannabe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Nov 2020 17:58:14 -0600</lastBuildDate><atom:link href="http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/posts/my-first-post/</link>
+      <pubDate>Thu, 26 Nov 2020 17:58:14 -0600</pubDate>
+      
+      <guid>http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe/posts/my-first-post/</guid>
+      <description>First post using hugo</description>
+    </item>
+    
+  </channel>
+</rss>
