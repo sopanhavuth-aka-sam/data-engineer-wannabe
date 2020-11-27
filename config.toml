@@ -1,4 +1,5 @@
-baseURL = "sopanhavuth-aka-sam.github.io/data-engineer-wannabe"
+baseURL = "."
+custom_css = "css/stylesheet.min.08d6f2005b6ce4ed10207916c0411c66e66f2201e3f7a56e8fb2ccbc4a8b259c.css"
 languageCode = "en-us"
 title = "Data Engineer Wannabe"
 theme = "hugo-PaperMod"
