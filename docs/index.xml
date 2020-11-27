@@ -16,5 +16,14 @@
       <description>First post using hugo</description>
     </item>
     
+    <item>
+      <title>First Post Created with Forestry.io</title>
+      <link>./posts/first-post-created-with-forestry.io/</link>
+      <pubDate>Thu, 26 Nov 2020 06:00:00 +0000</pubDate>
+      
+      <guid>./posts/first-post-created-with-forestry.io/</guid>
+      <description>Testing the blog workflow.</description>
+    </item>
+    
   </channel>
 </rss>
