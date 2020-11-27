@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Data Engineer Wannabe"
+theme = "hugo-PaperMod"
+publishDir = "docs"
