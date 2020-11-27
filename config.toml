@@ -1,4 +1,4 @@
-baseURL = "http://sopanhavuth-aka-sam.github.io/data-engineer-wannabe"
+baseURL = "sopanhavuth-aka-sam.github.io/data-engineer-wannabe"
 languageCode = "en-us"
 title = "Data Engineer Wannabe"
 theme = "hugo-PaperMod"
